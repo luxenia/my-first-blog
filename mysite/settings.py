@@ -27,7 +27,6 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['sugarfree21.pythonanywhere.com']
 
-
 # Application definition
 
 INSTALLED_APPS = (
